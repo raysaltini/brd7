@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the BW Skwed feature.
+ */
+
+include_once 'bw_skewed.features.inc';

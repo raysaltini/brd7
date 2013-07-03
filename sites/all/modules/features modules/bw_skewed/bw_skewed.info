@@ -1,0 +1,7 @@
+name = BW Skwed
+description = adds a skewed image preset
+core = 7.x
+package = features modules
+dependencies[] = image
+features[features_api][] = api:1
+features[image][] = bwskewed
